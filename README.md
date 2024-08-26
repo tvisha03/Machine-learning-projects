@@ -9,3 +9,15 @@ Project 3 - Loan Status Prediction
 Project 4 - Fake News Prediction
 <br>
 Project 5 - Wine Quality Prediction
+<br>
+Project 6 - Car Price Prediction
+<br>
+Project 7 - Gold Price Prediction
+<br>
+Project 8 - Heart Disease Prediction
+<br>
+Project 9 - Credit Card Fraud Detection
+<br>
+Project 10 - Medical Insurance Cost Prediction
+<br>
+Project 11 - Big Mart Sales Prediction
